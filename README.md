@@ -9,6 +9,12 @@
 
 - ⚡ Fun fact **Once you know me you will love me**
 
+<br>
+
+[![Harsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Harshtank-io&custom_title=My%20activity%20graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh-tank-6b71b0236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-tank-6b71b0236/" height="30" width="40" /></a>
