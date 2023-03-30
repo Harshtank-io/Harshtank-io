@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshtank-io&show_icons=true&locale=en" alt="harshtank-io" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshtank-io&" alt="harshtank-io" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshtank-io&" alt="harshtank-io&theme=dark"/></p>
