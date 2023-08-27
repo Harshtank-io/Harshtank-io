@@ -10,7 +10,7 @@
 <br>
 
 
-[![Harsh's github activity grap](https://github-readme-activity-graph.vercel.app/graph?username=Harshtank-io&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harsh's github activity grap](https://github-readme-activity-graph.vercel.app/graph?username=Harshtank-io&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
