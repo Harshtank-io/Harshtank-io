@@ -9,9 +9,8 @@
 
 <br>
 
-[![Harsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Harshtank-io&custom_title=My%20activity%20graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Harsh's github activity grap](https://github-readme-activity-graph.vercel.app/graph?username=Harshtank-io)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harsh's github activity grap](https://github-readme-activity-graph.vercel.app/graph?username=Harshtank-io&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
