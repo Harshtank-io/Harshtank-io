@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Tank</h1>
-<h3 align="center">A passionate and creative Programmer and want's to expand the knowledge.</h3>
+<h3 align="center">A passionate and creative Programmer and want's to expand the knowledge.  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshtank-io&label=Profile%20views&color=0e75b6&style=flat" alt="harshtank-io" /> </p>
 
